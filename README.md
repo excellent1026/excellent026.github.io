@@ -1,1 +1,10 @@
 # excellent026.github.io
+# 张三的个人主页
+## 关于我
+一名前端开发新手，正在学习 JavaScript/React。
+## 我的项目
+- [项目1](https://github.com/zhangsan/project1)
+- [项目2](https://github.com/zhangsan/project2)
+## 联系方式
+- GitHub：[zhangsan](https://github.com/zhangsan)
+- 邮箱：zhangsan@example.com
